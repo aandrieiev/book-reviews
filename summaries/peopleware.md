@@ -8,6 +8,8 @@ Tom DeMarco, Timothy Lister • 1987, 2014 • ISBN 978-0-321-93411-6 • 272 pa
 
 [Amazon](https://www.amazon.com/Peopleware-Productive-Projects-Tom-DeMarco-ebook/dp/B00DY5A8X2/) • [Goodreads](https://www.goodreads.com/book/show/67825.Peopleware) • [Wikipedia](https://en.wikipedia.org/wiki/Peopleware:_Productive_Projects_and_Teams)
 
+[Source](https://github.com/arkon108/book-reviews/blob/master/summaries/004-peopleware.md)
+
 About the Authors
 -----------------
 [**Tim Lister**](https://en.wikipedia.org/wiki/Tim_Lister) (born 1949) is a software engineer with specialty in software risk management is a lecturer and author on several books on software management.

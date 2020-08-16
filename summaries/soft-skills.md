@@ -11,6 +11,7 @@ Author
 ------------
 John is a founder of [http://simpleprogrammer.com/](http://simpleprogrammer.com/) blog which he turned into developer coaching and consultancy agency. He's also a real-estate agent, course author, technical consultant, former aspiring model who retired at 33 years of age<sup>[1](#footnote1)</sup><a name="f1"></a>. 
 
+[Source](https://github.com/arkon108/book-reviews/blob/master/summaries/003-soft-skills.md)
 
 
 Introduction

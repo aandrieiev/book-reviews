@@ -9,6 +9,8 @@ by Gerald Weinberg, 1986 (2011 Kindle Edition), 304 pages
 
 [Goodreads](https://www.goodreads.com/book/show/714344.Becoming_a_Technical_Leader)
 
+[Source](https://github.com/arkon108/book-reviews/blob/master/summaries/001-becoming-a-technical-leader.md)
+
 Introduction
 ============
 

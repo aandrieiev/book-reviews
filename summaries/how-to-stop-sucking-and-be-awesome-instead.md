@@ -13,6 +13,8 @@ About the author
 
 Jeff Atwood is the author of [Coding Horror](http://blog.codinghorror.com/) and the co-founder of the [Stack Overflow](http://stackoverflow.com) the best programming Q&A forum and a part of greater Q&A [Stack Exchange](http://stackexchange.com/) network. He's been programming for a living since the 80ies. 
 
+[Source](https://github.com/arkon108/book-reviews/blob/master/summaries/002-how-to-stop-sucking-and-be-awesome-instead.md)
+
 Introduction
 ============
 
