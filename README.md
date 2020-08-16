@@ -7,7 +7,7 @@ My collection of book summaries
 ### Leadership
 * [Becoming a Technical Leader,  Gerald Weinberg](summaries/becoming-a-technical-leader.md)
 * [Peopleware, Tom DeMarco and Timothy Lister](summaries/peopleware.md)
-* [The Mythical Man Month ](summares/../summaries/the-mythical-man-month.md)
+* [The Mythical Man Month, Fred Brooks](summares/../summaries/the-mythical-man-month.md)
 
 ### Soft skillz
 * [Soft Skills, John Z. Sonmez](summaries/soft-skills.md)
@@ -15,7 +15,7 @@ My collection of book summaries
 * [Ego Is the Enemy, Ryan Holiday](summaries/ego-is-the-enemy.md)
 
 ### Business
-* [Hack The Entrepeneur](summaries/hack-the-entrepreneur.md)
+* [Hack The Entrepeneur, Jon Nastor](summaries/hack-the-entrepreneur.md)
 
 ### Science
 * Wider Than The Sky
