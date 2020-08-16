@@ -15,7 +15,7 @@ My collection of the book summaries
 * [Ego Is the Enemy, Ryan Holiday](summaries/ego-is-the-enemy.md)
 
 ### Business
-* Hack The Entrepeneur
+* [Hack The Entrepeneur](summaries/hack-the-entrepreneur.md)
 
 ### Science
 * Wider Than The Sky
