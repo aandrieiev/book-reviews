@@ -7,7 +7,7 @@ My collection of the book summaries
 ### Leadership
 * [Becoming a Technical Leader,  Gerald Weinberg](summaries/becoming-a-technical-leader.md)
 * [Peopleware, Tom DeMarco and Timothy Lister](summaries/peopleware.md)
-* Mythical Man Month
+* [The Mythical Man Month ](summares/../summaries/the-mythical-man-month.md)
 
 ### Soft skillz
 * [Soft Skills, John Z. Sonmez](summaries/soft-skills.md)
