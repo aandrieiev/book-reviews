@@ -1,4 +1,4 @@
-My collection of the book summaries 
+My collection of book summaries 
 =================================
 
 ### Craftsmanship
