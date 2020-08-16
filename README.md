@@ -16,6 +16,3 @@ My collection of book summaries
 
 ### Business
 * [Hack The Entrepeneur, Jon Nastor](summaries/hack-the-entrepreneur.md)
-
-### Science
-* Wider Than The Sky
